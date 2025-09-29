@@ -1,0 +1,80 @@
+# Virtual environments
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Virtual environments
+.venv/
+# OS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model files
+*.h5
+*.keras
+
+# Explicitly ignore .venv and model files
+.venv/
+*.h5
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kaggle API
+.kaggle/
+Thumbs.db
+
+# Kaggle credentials and data
+.kaggle/
+
+# Model artifacts
+*.h5
+*.keras
+*.hdf5
+*.pb
+*.ckpt*
+plant_species_Model_kaggle.h5
+resnet_model_kaggle.keras
+plant_cnn_final.h5
+
+# Archives and datasets
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+logs/
+
